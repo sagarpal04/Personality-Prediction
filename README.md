@@ -2,6 +2,10 @@
 
 This project predicts a person’s personality type — **Introvert, Ambivert, or Extrovert** — using Logistic Regression based on psychological, social, and behavioral traits. The model is trained on a synthetic dataset and evaluated using standard machine learning metrics.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b30b0e8-532d-488b-a2d7-8dab8e6849f3" width="800" />
+</p>
+
 ---
 
 ## 📁 Dataset
@@ -89,4 +93,4 @@ The trained model and scaler were exported using `pickle` for easy deployment:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone https://github.com/sagarpal04/Personality-Prediction.git
